@@ -5,6 +5,8 @@
 layout: home
 ---
 
-Hi! My name's Conor, and I'm a third-year mechanical engineering student at UCLA. 
+Hi! My name's Conor, and I'm a third-year mechanical engineering student at UCLA. Check out my resume and portfolio below, or for more detail take a look at my [Projects](/projects). 
 
-<object data="./files/Sefkow_Conor_Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="./files/Sefkow_Conor_Resume.pdf" width="500" height="500" type='application/pdf'></object>
+
+<object data="./files/Sefkow_Conor_Portfolio.pdf" width="500" height="500" type='application/pdf'></object>
