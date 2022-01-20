@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi! My name's Conor, and I'm a third-year mechanical engineering student at UCLA. 
